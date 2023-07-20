@@ -1,4 +1,4 @@
-# yashell
+# YaShell
 An SSH Client
 
 ## Roadmap
